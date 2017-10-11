@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507756462 source:d:\dokumenty\szko³a\studia\programowanie zadania\laboratorium 4\zad 2\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
